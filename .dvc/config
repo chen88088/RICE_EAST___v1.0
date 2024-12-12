@@ -1,0 +1,7 @@
+[core]
+    remote = minio-storage
+['remote "minio-storage"']
+    url = s3://rice-east---v1.0
+    secret_access_key = testdvctominio
+    access_key_id = testdvctominio
+    endpointurl = http://10.52.52.138:31000
